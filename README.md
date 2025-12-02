@@ -49,7 +49,7 @@
 ### 📊 Github Stats
 
 <div align="center">
-  <img src="https://stats.dooboo.io/api/github-stats?login=rosado25" />
+  <img src="https://stats.dooboo.io/api/github-stats-advanced?login=rosado25" />
 </div>
 
 <div align="center">
