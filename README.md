@@ -103,8 +103,9 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rosado25&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
+<p align="center">
+  <img src="https://stats.dooboo.io/api/github-stats?login=rosado25" />
+</p>
 <br/>  
 
 <div align="center">
