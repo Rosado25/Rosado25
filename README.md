@@ -8,7 +8,7 @@
 <div align="center">
   <br />
   
-  > 🌌 I'm currently exploring AI, cognition, and how humans process reality.
+  > 🌌 Curious about everything.
   > 
   > ⚡ **Fun fact:** I gain a lot of creativity out of movies.
   
