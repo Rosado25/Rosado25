@@ -10,7 +10,7 @@
   
   > 🌌 Curious about everything.
   > 
-  > ⚡ **Fun fact:** I gain a lot of creativity out of movies.
+  > ⚡ **Fun fact:** For me it´s all about the art.
   
   <br />
 
@@ -31,16 +31,15 @@
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,dart,php,c,html,css&perline=9" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=c,java,js,html,css,jquery,mongodb,mysql,androidstudio,arduino,vagrant,api&perline=12" />
   <br />
-  
-  <img src="https://skillicons.dev/icons?i=react,flutter,laravel,spring,nodejs,express,jquery&perline=7" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=php,py,dart,react,tailwind,vite,postgres,redis,bash,debian,virtualbox,plsql&perline=12" />
   <br />
-  
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis&perline=4" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=flutter,sqlite,supabase,eclipse,json,git,github,gitlab,gtk,docker,kubernetes,junit&perline=12" />
   <br />
-  
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,linux,bash,arduino&perline=8" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=linux,maven,nodejs,npm,postman,powershell,vscode,ubuntu,vercel,spring,n8n,neo4j&perline=12" />
+
+
   
 </div>
 
