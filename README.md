@@ -23,6 +23,14 @@
   <a href="https://instagram.com/_alexandre_rosado_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+
+  <br/>
+
+  ### Go to my WebSite
+  
+  <a href="https://alexandrerosado.com">
+     <img src="https://i.ibb.co/LzSvPTz9/256-logo2.webp" border="0" alt="Personal Website">
+  </a>
 </div>
 
 <hr/>
